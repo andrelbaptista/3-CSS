@@ -1,0 +1,11 @@
+h1 {
+    color: coral;
+    font-size: 3em;
+}
+
+/* Este li, será usado no terceiro item da lista */
+li {
+    color: green;
+    font-family: cursive, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
