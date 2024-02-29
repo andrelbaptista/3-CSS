@@ -1,0 +1,21 @@
+.normal {
+    background-color: #000;
+    color: #fff;
+    padding: 8px;
+    width: 400px;
+}
+.borda {
+    background-color: #000;
+    color: #fff;
+    border:5px solid #9e0d0d;
+    padding: 8px;
+    width: 400px;
+}
+.borderbox {
+    background-color: #000;
+    color: #fff;
+    border:5px solid #9e0d0d;
+    padding: 8px;
+    width: 400px;
+    box-sizing: border-box;
+}

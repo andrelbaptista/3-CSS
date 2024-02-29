@@ -1,0 +1,23 @@
+.titulo, 
+.paragrafo {
+    background-image: url(../img/floresta.jpg);
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+.padrao,
+.centralizada,
+.cover {
+    background-image: url(../img/ponte.jpg);
+    height:120px;
+    width: 120px;
+    margin: 20px;
+}
+.centralizada {
+    background-position: center;
+}
+.cover {
+    background-position: cover;
+    height: 120px;
+    width: 100%;
+}

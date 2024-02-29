@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+  } 
+
+:root {
+    --cor1: #a9a9a9;
+    --cor2: #000;
+    --cor3: #fff;
+    --cor4: #f00;
+    --cor5: #008000;
+    --font1: cursive;
+}
+body {
+    background-color: var(--cor1);
+    padding:  50vh;
+    border: 10px solid var(--cor5);
+}
+h2 {
+    box-sizing: content-box;
+    font-family: var(--font1);
+    font-size: 3em;
+    padding: 5px;
+}
+.border {
+    border: 2px dotted var(--cor3);
+    width: 210px;
+    margin: 10vh 21vw;
+}
+.outline {
+    outline: 2px dotted var(--cor3);
+    width: 242px;
+    margin: 10vh 21vw;
+}
+.campo {
+    background-image: url(../img/futebol.jpg);
+    width: 463px;
+    height: 646px;
+    margin: auto;
+    border: 10px solid  var(--cor2);
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid var(--cor2);
+    box-shadow: 3px 3px 3px var(--cor2);
+
+}
+.flamengo {
+    margin: 35% 40% 45%;
+}
+.fluminense {
+    margin: -5% 40% 45%;
+}
