@@ -1,0 +1,23 @@
+.dbox, .dinline, .sinline, .sbox, p {
+    text-align: center;
+    border: 2px solid #000;
+    padding: 15px;
+    margin: 10px;
+}
+.dbox {
+    background-color: green;
+}
+.dinline {
+    background-color: cadetblue;
+    display: inline-block;
+}
+.sinline {
+    background-color: cadetblue;
+}
+.sbox {
+    background-color: green;
+    display: block;
+}
+.invisible {
+    display: none;
+}

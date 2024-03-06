@@ -1,0 +1,65 @@
+.serif {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sans-serif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+.cursive {
+    font-family: cursive;
+}
+.fantasy {
+    font-family: fantasy;
+}
+.italico {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.obliquo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+.bold, .bolder, menor, .f300, .f400, .f600, .maior {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bold {
+    font-weight: bold;
+}
+.bolder {
+    font-weight: bolder;
+}
+.menor {
+    font-weight: 100;
+}
+.f300 {
+    font-weight: 300;
+}
+.f400 {
+    font-weight: 400;
+}
+.f600 {
+    font-weight: 600;
+}
+.maior {
+    font-weight: 900;
+}
+.padrao {
+    font-size:  1em;
+}
+.f6 {
+    font-size:  6px;
+}
+.f16 {
+    font-size:  16px;
+}
+.f40 {
+    font-size:  40px;
+}
+.f88 {
+    font-size:  88px;
+}
+.f2x {
+    font-size:  2em;
+}
